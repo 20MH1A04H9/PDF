@@ -15,7 +15,7 @@ Github link: https://gitlab.com/kalilinux/packages/john
 
 
 ## Usage/Example
-1. Locate the file by using command line
+1. Locate the file by using kali Linux 
 ```
 cd Desktop
 ```
@@ -23,7 +23,7 @@ cd Desktop
 ```
 ls
 ```
-3. conjunction with a password
+3.  Select the pdf file and conjunction with a password,Run the terminal as:
 ```
 pdf2john test.pdf > test.hash
 ```
